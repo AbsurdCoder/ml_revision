@@ -11,8 +11,12 @@
             "id": "6cc37be2a26683fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md"
+              }
             }
           },
           {
@@ -147,11 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cc37be2a26683fe",
+  "active": "3df4570f94a67386",
   "lastOpenFiles": [
-    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
-    "DBscan.md",
     "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
+    "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
+    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
+    "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
     "README.md",
@@ -164,7 +175,6 @@
     "Prediction/Machine Learning/Distributions.md",
     "Prediction/Machine Learning/Machine Learning.md",
     "Prediction/Machine Learning/Unsupervised Learning",
-    "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
     "Prediction/Machine Learning/Supervised Learning",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing.md",
@@ -179,8 +189,6 @@
     "Prediction/Mathematics & Statistics/Continuos/t-distribution.md",
     "Process of ML/Process Start.md",
     "Process of ML/Data Pre-processing.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Kolmogorov Smirnov(KS) test.md",
-    "Process of ML/Fit the data into a model.md",
     "Process of ML",
     "Prediction/Mathematics & Statistics",
     "Prediction",
