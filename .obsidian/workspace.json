@@ -11,8 +11,12 @@
             "id": "6cc37be2a26683fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 512.5
   },
   "right": {
     "id": "b27f396ec0b9905c",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md"
+              }
             }
           },
           {
@@ -149,14 +157,29 @@
   },
   "active": "6cc37be2a26683fe",
   "lastOpenFiles": [
+    "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
+    "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
+    "Prediction/Mathematics & Statistics/Continuos/Beta.md",
+    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
+    "Prediction/Mathematics & Statistics/Continuos/F-distribution.md",
+    "Untitled.canvas",
+    "2024-07-13.md",
+    "Untitled 1.canvas",
+    "Pasted image 20240713012408.png",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Mathematical Distributions.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Kolmogorov Smirnov(KS) test.md",
+    "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
+    "Prediction/Machine Learning/Machine Learning.md",
     "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
     "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
     "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
     "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
     "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
     "README.md",
     "ml_revision/README.md",
     "ml_revision",
@@ -164,23 +187,11 @@
     "Prediction/Prediction.md",
     "Prediction/Data Visualization.md",
     "Prediction/Evaluation.md",
-    "Prediction/Machine Learning/Distributions.md",
-    "Prediction/Machine Learning/Machine Learning.md",
     "Prediction/Machine Learning/Unsupervised Learning",
     "Prediction/Machine Learning/Supervised Learning",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing",
-    "Untitled.md",
     "Prediction/Mathematics & Statistics/Continuos",
-    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
-    "Prediction/Mathematics & Statistics/Discrete/Discrete.md",
-    "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
     "Mathematics & Statistics",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/One-tailed vs. Two-tailed Tests.md",
-    "Prediction/Mathematics & Statistics/Continuos/t-distribution.md",
-    "Process of ML/Process Start.md",
-    "Process of ML/Data Pre-processing.md",
     "Process of ML",
     "Prediction/Mathematics & Statistics",
     "Prediction",

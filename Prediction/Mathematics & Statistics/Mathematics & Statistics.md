@@ -1,6 +1,6 @@
 
 - [[Probability]]
-- [[Distributions]]
+- [[Mathematical Distributions]]
 - [[Linear Algebra]]
 - [[Calculus]]
-- [[Hypothesis Testing]]
+- [[Hypothesis Testing - Statistical Analysis]]
