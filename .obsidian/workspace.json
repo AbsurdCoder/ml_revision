@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c7536115d9fe5a4a",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "6b98230004355410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5782818dd3c6397e",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "a1bbff54c1e291a6",
@@ -33,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,8 +189,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6b98230004355410",
+  "active": "a1bbff54c1e291a6",
   "lastOpenFiles": [
+    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
     "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
     "Prediction/Mathematics & Statistics/Continuos/Beta.md",
@@ -232,7 +208,6 @@
     "Proj/Testing.md",
     "Proj/Test2.md",
     "Proj/Test1.md",
-    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "Proj",
     "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
     "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
