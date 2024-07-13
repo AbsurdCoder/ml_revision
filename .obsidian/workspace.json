@@ -138,24 +138,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "6cc37be2a26683fe",
+  "active": "2945096b2af1e454",
   "lastOpenFiles": [
     "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
     "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
