@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9efe1d1016cd5df0",
+        "id": "c7536115d9fe5a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc37be2a26683fe",
+            "id": "6b98230004355410",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 290.5
   },
   "right": {
     "id": "b27f396ec0b9905c",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prediction/Mathematics & Statistics/Continuos/Continuos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,13 +128,26 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b5bf05c0c61c1e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 411.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,19 +156,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "2945096b2af1e454",
+  "active": "6b98230004355410",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
+    "2024-07-13.md",
+    "Untitled 1.canvas",
     "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
     "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
     "Prediction/Mathematics & Statistics/Continuos/Beta.md",
-    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "Prediction/Mathematics & Statistics/Continuos/F-distribution.md",
-    "Untitled.canvas",
-    "2024-07-13.md",
-    "Untitled 1.canvas",
     "Pasted image 20240713012408.png",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",

@@ -1,1 +1,6 @@
-{}
+{
+  "accentColor": "#5c8bd6",
+  "interfaceFontFamily": "Arial Unicode MS",
+  "baseFontSize": 18,
+  "translucency": true
+}
