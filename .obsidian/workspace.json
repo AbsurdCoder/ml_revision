@@ -25,14 +25,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prediction/Data Visualization.md",
+                "file": "Proj/index.md.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e198864a30c8d8f7"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "5782818dd3c6397e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1bbff54c1e291a6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Proj/index.md.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e198864a30c8d8f7"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction/Data Visualization.md",
+                "file": "Proj/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prediction/Data Visualization.md",
+                "file": "Proj/index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prediction/Data Visualization.md"
+                "file": "Proj/index.md.md"
               }
             }
           },
@@ -167,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,39 +227,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3df4570f94a67386",
+  "active": "614ef53b371220a2",
   "lastOpenFiles": [
-    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
+    "Proj/index.md.md",
+    "Proj",
+    "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
+    "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
+    "Prediction/Mathematics & Statistics/Continuos/Beta.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
     "Prediction/Machine Learning/Index.md",
-    "Prediction/Machine Learning/Supervised Learning.md",
     "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
+    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
     "Machine Learning/Supervised Learning.md",
+    "Process of ML/Accuracy of predictions.md",
+    "My Journey in data science - Kanban.md",
+    "Prediction/Data Visualization.md",
+    "Prediction/Machine Learning/Supervised Learning.md",
     "Machine Learning",
     "Prediction/Prediction.md",
     "Prediction/Evaluation.md",
     "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
-    "Prediction/Data Visualization.md",
     "README.md",
-    "My Journey in data science - Kanban.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
     "Untitled.canvas",
-    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "2024-07-13.md",
     "Untitled 1.canvas",
-    "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
-    "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
-    "Prediction/Mathematics & Statistics/Continuos/Beta.md",
     "Prediction/Mathematics & Statistics/Continuos/F-distribution.md",
     "Pasted image 20240713012408.png",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Mathematical Distributions.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Kolmogorov Smirnov(KS) test.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
-    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
-    "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
-    "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
-    "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
     "ml_revision",
     "Prediction/Machine Learning/Unsupervised Learning",
     "Prediction/Machine Learning/Supervised Learning",
@@ -223,7 +268,6 @@
     "Prediction/Mathematics & Statistics/Continuos",
     "Mathematics & Statistics",
     "Process of ML",
-    "Prediction/Mathematics & Statistics",
-    "Prediction"
+    "Prediction/Mathematics & Statistics"
   ]
 }
