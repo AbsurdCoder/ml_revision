@@ -4,7 +4,7 @@
 - [[Data]]
 - [[Mathematics & Statistics]]
 - [[Programming]]
-- [[Index]]
+- [[Machine Learning]]
 - [[Data Visualization]]
 - [[Evaluation]]
 - Model Deployment
