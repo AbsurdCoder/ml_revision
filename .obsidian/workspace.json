@@ -11,8 +11,16 @@
             "id": "6b98230004355410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "My Journey in data science - Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              }
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Journey in data science - Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Journey in data science - Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Journey in data science - Kanban.md"
+              }
             }
           },
           {
@@ -159,11 +171,13 @@
       "graph:Open graph view": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "6b98230004355410",
   "lastOpenFiles": [
+    "My Journey in data science - Kanban.md",
     "Untitled.canvas",
     "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "2024-07-13.md",
