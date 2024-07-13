@@ -11,15 +11,11 @@
             "id": "6b98230004355410",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "My Journey in data science - Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Prediction/Prediction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Journey in data science - Kanban.md",
+                "file": "Prediction/Prediction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Journey in data science - Kanban.md",
+                "file": "Prediction/Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Journey in data science - Kanban.md"
+                "file": "Prediction/Prediction.md"
               }
             }
           },
@@ -177,7 +173,15 @@
   },
   "active": "6b98230004355410",
   "lastOpenFiles": [
+    "Prediction/Evaluation.md",
+    "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
+    "Prediction/Prediction.md",
+    "Prediction/Data Visualization.md",
+    "README.md",
     "My Journey in data science - Kanban.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
+    "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
     "Untitled.canvas",
     "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "2024-07-13.md",
@@ -187,12 +191,8 @@
     "Prediction/Mathematics & Statistics/Continuos/Beta.md",
     "Prediction/Mathematics & Statistics/Continuos/F-distribution.md",
     "Pasted image 20240713012408.png",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Chi-square test.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Parametric Tests.md",
-    "Prediction/Mathematics & Statistics/Hypothesis Testing/Non-parametric Tests.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Mathematical Distributions.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Kolmogorov Smirnov(KS) test.md",
-    "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
     "Prediction/Machine Learning/Machine Learning.md",
     "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
@@ -201,13 +201,9 @@
     "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
     "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
     "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
-    "README.md",
     "ml_revision/README.md",
     "ml_revision",
     "Process of ML/Accuracy of predictions.md",
-    "Prediction/Prediction.md",
-    "Prediction/Data Visualization.md",
-    "Prediction/Evaluation.md",
     "Prediction/Machine Learning/Unsupervised Learning",
     "Prediction/Machine Learning/Supervised Learning",
     "Prediction/Mathematics & Statistics/Hypothesis Testing",
