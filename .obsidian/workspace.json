@@ -11,8 +11,15 @@
             "id": "9dd52a371054c815",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
+                "viewState": {
+                  "x": 167.78803458064993,
+                  "y": 505.6730738677704,
+                  "zoom": -0.7940569868153142
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas"
+              }
             }
           },
           {
@@ -165,8 +176,10 @@
   },
   "active": "9dd52a371054c815",
   "lastOpenFiles": [
-    "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
     "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
+    "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
     "202407141619.md",
     "K Mean Clustering.md",
     "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
@@ -186,7 +199,6 @@
     "Proj/Test2.md",
     "Proj/Test1.md",
     "Proj",
-    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
     "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
     "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
     "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
