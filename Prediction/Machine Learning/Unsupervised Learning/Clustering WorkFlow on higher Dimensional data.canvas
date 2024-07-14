@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"b153d7088d7963c7","x":-380,"y":-140,"width":250,"height":100,"type":"text","text":"Data - Pre-processing, cleanup."},
+		{"id":"4059ad3afbcded6d","x":68,"y":-140,"width":250,"height":99,"type":"text","text":"Encoding Categorical Variable."},
+		{"id":"920713db4d43cc9a","x":72,"y":228,"width":250,"height":92,"type":"text","text":"Apply clustering Algo - Get the labels"},
+		{"id":"ae782a0e0882d8e3","x":-268,"y":226,"width":250,"height":94,"type":"text","text":"Apply PCA - Reduce the dimensions "},
+		{"id":"f52832741f4e850d","x":-103,"y":433,"width":250,"height":87,"type":"text","text":"Plot PCA'ed features with cluster labels"},
+		{"id":"5538d921c730d4e7","x":-105,"y":589,"width":250,"height":111,"type":"text","text":"Inverse Transform and get the centers values for each feature"},
+		{"id":"74b7768ba666c671","x":-107,"y":763,"width":250,"height":97,"type":"text","text":"Map the centers with data column "},
+		{"id":"3823d6a8dc121801","x":-106,"y":891,"width":250,"height":109,"type":"text","text":"Plot the data and see which feature had the most impact"},
+		{"id":"dfa374f86a85e260","x":-143,"y":80,"width":250,"height":60,"type":"text","text":"Scale the data"}
+	],
+	"edges":[
+		{"id":"a6260c51494f9a1d","fromNode":"b153d7088d7963c7","fromSide":"right","toNode":"4059ad3afbcded6d","toSide":"left"},
+		{"id":"c995b4aa1aa95c1f","fromNode":"4059ad3afbcded6d","fromSide":"bottom","toNode":"dfa374f86a85e260","toSide":"top"},
+		{"id":"16f5d7227938ef88","fromNode":"dfa374f86a85e260","fromSide":"bottom","toNode":"920713db4d43cc9a","toSide":"top"},
+		{"id":"8949bc8c1a4eccde","fromNode":"dfa374f86a85e260","fromSide":"bottom","toNode":"ae782a0e0882d8e3","toSide":"top"},
+		{"id":"8ba7f428b2995c4e","fromNode":"ae782a0e0882d8e3","fromSide":"bottom","toNode":"f52832741f4e850d","toSide":"top"},
+		{"id":"a62d46ec3ebb4c03","fromNode":"920713db4d43cc9a","fromSide":"bottom","toNode":"f52832741f4e850d","toSide":"top"},
+		{"id":"05167643313228f6","fromNode":"f52832741f4e850d","fromSide":"bottom","toNode":"5538d921c730d4e7","toSide":"top"},
+		{"id":"2014fd0c7226ca7d","fromNode":"5538d921c730d4e7","fromSide":"bottom","toNode":"74b7768ba666c671","toSide":"top"},
+		{"id":"cfa0772278182145","fromNode":"74b7768ba666c671","fromSide":"bottom","toNode":"3823d6a8dc121801","toSide":"top"}
+	]
+}

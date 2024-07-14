@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5782818dd3c6397e",
+        "id": "3ff55b241cdded6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a1bbff54c1e291a6",
+            "id": "9dd52a371054c815",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "K Mean Clustering.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "19f1ff5fc1c73aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K Mean Clustering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K Mean Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K Mean Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "K Mean Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,9 +163,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "19f1ff5fc1c73aa8",
+  "active": "9dd52a371054c815",
   "lastOpenFiles": [
+    "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
     "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "202407141619.md",
     "K Mean Clustering.md",
     "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
     "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
@@ -237,10 +194,7 @@
     "Process of ML/Accuracy of predictions.md",
     "My Journey in data science - Kanban.md",
     "Prediction/Data Visualization.md",
-    "Prediction/Machine Learning/Supervised Learning.md",
     "Machine Learning",
-    "Prediction/Prediction.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240713012408.png",
     "ml_revision",
