@@ -11,14 +11,11 @@
             "id": "9dd52a371054c815",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
-                "viewState": {
-                  "x": 167.78803458064993,
-                  "y": 505.6730738677704,
-                  "zoom": -0.7940569868153142
-                }
+                "file": "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
+                "file": "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
+                "file": "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas"
+                "file": "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md"
               }
             }
           },
@@ -176,17 +173,25 @@
   },
   "active": "9dd52a371054c815",
   "lastOpenFiles": [
-    "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
-    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/Continuos.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Discrete/Discrete.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Mathematical Distributions.md",
+    "Prediction/Mathematics & Statistics/Mathematics & Statistics.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution",
+    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Prediction/Machine Learning/Machine Learning.md",
+    "Prediction/Prediction.md",
+    "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
+    "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
     "Prediction/Machine Learning/Unsupervised Learning/DBscan.md",
     "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
+    "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
     "202407141619.md",
     "K Mean Clustering.md",
-    "Prediction/Mathematics & Statistics/Continuos/Continuos.md",
-    "Prediction/Mathematics & Statistics/Continuos/chi-square.md",
-    "Prediction/Mathematics & Statistics/Continuos/chi-sqr-distribution.png",
-    "Prediction/Mathematics & Statistics/Continuos/Beta.md",
-    "Prediction/Machine Learning/Machine Learning.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/chi-square.md",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/chi-sqr-distribution.png",
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/Beta.md",
     "Proj/proj.md.md",
     "Art-Intelligence/Maths & Stats.md",
     "Art-Intelligence/Art-Intelligence.md.md",
@@ -199,13 +204,6 @@
     "Proj/Test2.md",
     "Proj/Test1.md",
     "Proj",
-    "Prediction/Machine Learning/Supervised Learning/Linear Regression.md",
-    "Prediction/Machine Learning/Supervised Learning/Supervised Learning.md",
-    "Prediction/Machine Learning/Supervised Learning/Time series Forecasting.md",
-    "Machine Learning/Supervised Learning.md",
-    "Process of ML/Accuracy of predictions.md",
-    "My Journey in data science - Kanban.md",
-    "Prediction/Data Visualization.md",
     "Machine Learning",
     "Untitled 1.canvas",
     "Pasted image 20240713012408.png",
@@ -213,8 +211,7 @@
     "Prediction/Machine Learning/Unsupervised Learning",
     "Prediction/Machine Learning/Supervised Learning",
     "Prediction/Mathematics & Statistics/Hypothesis Testing",
-    "Prediction/Mathematics & Statistics/Continuos",
-    "Mathematics & Statistics",
-    "Process of ML"
+    "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos",
+    "Mathematics & Statistics"
   ]
 }
