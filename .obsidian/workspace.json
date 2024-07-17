@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff55b241cdded6c",
+        "id": "dcf007795e1a29f1",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd52a371054c815",
+            "id": "e5dcc25fcd2cf395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +163,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3df4570f94a67386",
+  "active": "e5dcc25fcd2cf395",
   "lastOpenFiles": [
+    "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md",
     "README.md",
     "Prediction/Mathematics & Statistics/Hypothesis Testing/Hypothesis Testing - Statistical Analysis.md",
     "202407141619.md",
@@ -191,7 +183,6 @@
     "Prediction/Machine Learning/Unsupervised Learning/Clustering WorkFlow on higher Dimensional data.canvas",
     "Prediction/Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Prediction/Machine Learning/Unsupervised Learning/Gaussian Mixture Model.md",
-    "Prediction/Machine Learning/Unsupervised Learning/K Mean Clustering.md",
     "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/chi-square.md",
     "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/chi-sqr-distribution.png",
     "Prediction/Mathematics & Statistics/Mathematical Distribution/Continuos/Beta.md",
